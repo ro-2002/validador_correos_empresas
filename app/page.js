@@ -62,7 +62,7 @@ export default function Component() {
           ) : (
             <div className="flex items-center">
               <AlertCircle className="mr-2" />
-              <span>El correo electrónico no es seguro. Asegúrate de que tenga al menos 8 caracteres, contenga caracteres especiales y use un dominio permitido (gmail.com, outlook.com).</span>
+              <span>No es un Correo Permitido para poder hacer Transacciones Etc ni seguro.</span>
             </div>
           )}
         </div>
